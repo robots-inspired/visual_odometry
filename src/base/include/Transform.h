@@ -6,7 +6,6 @@
 
 // warp for Eigen::Matrix4f
 // 3x3 rotation + 3x1 translation
-
 namespace my_robot 
 {
 	class Transform
